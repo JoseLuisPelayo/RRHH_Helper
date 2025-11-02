@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RRHH_Helper</string>
+    <string name="salario_bruto">SUELDO BRUTO ANUAL</string>
+    <string name="numero_pagas">NÚMERO DE PAGAS ANUALES</string>
+    <string name="edad">EDAD</string>
+    <string name="tipo_contrato">TIPO DE CONTRATO</string>
+    <string name="grupo">GRUPO PROFESIONAL</string>
+    <string name="trasladado">¿Estás trasladado por trabajo?</string>
+    <string name="comunidad">UBICACIÓN DEL DOMICILIO FISCAL</string>
+    <string name="discapacidad">GRADO DE DISCAPACIDAD</string>
+    <string name="estado_civil">ESTADO CIVIL</string>
+    <string name="sueldo_conyuge">¿Tiene tu cónyuge rentas superiores a 1.500€ anuales?</string>
+    <string name="num_hijos">NÚMERO DE HIJOS</string>
+    <string name="data_alert">Estos son sus datos Reviselos y si son incorrectos pulse Atrás para corregirlos:</string>
+    <string name="result_alert">Estos resultados son aproximados, si quiere algo fiable visite a un profesional</string>
+
+</resources>
